@@ -1,4 +1,4 @@
-[中文版？/chinese version](http://www.github.com/momonorthy/blogs/readchuinese.md)
+[中文版？/chinese version](https://github.com/momoNorthy/blogs/blob/master/readchuinese.md)
 # welcome to write blog
 ## how?
 ### here install all website(code)
