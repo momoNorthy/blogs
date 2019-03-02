@@ -5,6 +5,5 @@
 `git clone http://www.github.com/momonorthy/momonorthy.github.io`
 user name:tester-name
 user password: dabao20080000
-[go](http://www.github.com/tester-name/momonorthy.github.io/tree/博客)
-
+[go]( https://github.com/tester-name/momonorthy.github.com/tree/%E5%8D%9A%E5%AE%A2)
 
